@@ -1,7 +1,6 @@
-Getting Started With CSS
+# Getting Started With CSS
 
-0. introduction 
-1. course-overview
+1. introduction / course-overview
 2. getting-set-up 
 3. creating-html-text-practice 
 4. ariables-styling-setup 
